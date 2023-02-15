@@ -5,7 +5,7 @@
 
 <a href="https://github.com/AlpHerk/"><img height="100px" align="left" src="https://github-readme-stats.vercel.app/api/?username=AlpHerk&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
 
-<a href="https://github.com/AlpHerk/"><img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
+<a href="https://github.com/AlpHerk/"><img height="200px" align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
 
 
 <!--
