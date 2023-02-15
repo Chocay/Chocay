@@ -1,13 +1,13 @@
 
 ### 📫 [Click to reach my CSDN blog](https://blog.csdn.net/Alpherkin)
 
-<a href="https://github.com/AlpHerk/NjtechAutoLogin"><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpHerk&repo=NjtechAutoLogin&locale=cn&theme=dark" /></a>
+<a href="https://github.com/AlpHerk/NjtechAutoLogin"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AlpHerk&repo=NjtechAutoLogin&locale=cn&theme=dark" /></a>
 
 
 
-<a href="https://github.com/AlpHerk/"><img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
+<a href="https://github.com/AlpHerk/"><img height="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
 
-<a href="https://github.com/AlpHerk/"><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/?username=AlpHerk&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
+<a href="https://github.com/AlpHerk/"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=AlpHerk&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
 
 <!--
 **AlpHerk/AlpHerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
