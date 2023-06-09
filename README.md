@@ -7,7 +7,6 @@
 
 <a href="https://github.com/AlpHerk/"><img height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpHerk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AlpHerk/AlpHerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
