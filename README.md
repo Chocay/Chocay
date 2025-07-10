@@ -4,9 +4,9 @@
 <a href="https://github.com/Chocay/NjtechAutoLogin"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocay&repo=NjtechAutoLogin&locale=cn&theme=dark" /></a>
 -->
 
-<a href="https://github.com/Chocay/"><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocay&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
+<a href="https://github.com/Chocay/"><align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocay&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
 
-<a href="https://github.com/Chocay/"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Chocay&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
+<a href="https://github.com/Chocay/"><align="right" src="https://github-readme-stats.vercel.app/api/?username=Chocay&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark" /></a>
 
 
 <!--
