@@ -1,7 +1,8 @@
 
 ### 📫 [Click to reach my CSDN blog](https://blog.csdn.net/Alpherkin?spm=1000.2115.3001.5343)
-
+<!--
 <a href="https://github.com/Chocay/NjtechAutoLogin"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Chocay&repo=NjtechAutoLogin&locale=cn&theme=dark" /></a>
+-->
 
 <a href="https://github.com/Chocay/"><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocay&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
 
